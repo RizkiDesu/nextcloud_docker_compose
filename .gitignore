@@ -1,4 +1,15 @@
-./confiq
-./custom_apps
-./data_users
-./db_data
+./files
+./mariadb
+./nextcloud
+./nextcloud
+
+# Ignore init SQL scripts
+initdb/
+
+# Ignore temp and log files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
