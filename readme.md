@@ -3,7 +3,7 @@
 ## tutorial
 - cloning project 
 ```
-git clone 
+git clone https://github.com/RizkiDesu/nextcloud_docker_compose.git
 ```
 - gunakan perintah untuk running docker 
 
