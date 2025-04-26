@@ -1,7 +1,7 @@
-./files
-./mariadb
-./nextcloud
-./nextcloud
+./files/*
+./mariadb/*
+./nextcloud/*
+./nextcloud/*
 
 # Ignore init SQL scripts
 initdb/
