@@ -16,7 +16,7 @@ docker compose up -d
 
 - login dengan default akun username : `admin` password : `nextcloud@2025`
 
-## konfigrasi `trusted_domains`
+## konfigurasi `trusted_domains`
 
 - buka aksess root (biar data bisa di ubah ubah di file manager) 
 ```
